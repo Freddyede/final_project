@@ -9,7 +9,6 @@ use Symfony\Component\HttpFoundation\{
     JsonResponse,
     Request
 };
-use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\Serializer\Serializer;
 use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
 use Symfony\Component\Serializer\Encoder\{ JsonEncoder, XmlEncoder };
@@ -21,7 +20,7 @@ class ApiController extends AbstractController {
     /**
      * @Route("/api/users/lists")
      */
-    public function index(Request $request, ApiServices $apiServices) {
+    public function index(Request $request, ApiServices $apiServices): JsonResponse {
         $response = new JsonResponse();
         $response->headers->set('Authorization', 'testToken');
         $response->headers->set('Content-Type', 'application/json');
