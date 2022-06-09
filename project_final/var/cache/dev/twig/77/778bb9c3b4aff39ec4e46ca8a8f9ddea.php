@@ -642,6 +642,6 @@ class __TwigTemplate_e9f6026d1509c9f5077ea26c87fbf5f0 extends Template
         }());
     </script>
 {% endblock %}
-", "@WebProfiler/Profiler/layout.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/layout.html.twig");
+", "@WebProfiler/Profiler/layout.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/layout.html.twig");
     }
 }

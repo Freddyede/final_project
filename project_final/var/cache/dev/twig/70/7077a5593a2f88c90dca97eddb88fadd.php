@@ -71,6 +71,6 @@ class __TwigTemplate_14b9e2aeaec5a1d93f19bbca35b988f7 extends Template
 <?php else: ?>
 <?php echo \$view['form']->block(\$form, 'choice_widget_collapsed') ?>
 <?php endif ?>
-", "@Framework/Form/choice_widget.html.php", "/home/kali/Bureau/project_final/vendor/symfony/framework-bundle/Resources/views/Form/choice_widget.html.php");
+", "@Framework/Form/choice_widget.html.php", "/home/kali/Bureau/final_project/project_final/vendor/symfony/framework-bundle/Resources/views/Form/choice_widget.html.php");
     }
 }

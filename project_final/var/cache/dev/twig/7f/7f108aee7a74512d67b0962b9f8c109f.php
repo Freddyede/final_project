@@ -212,6 +212,6 @@ class __TwigTemplate_cf202502105523fbaaedc5858b232294 extends Template
     {% endfor %}
     </tbody>
 </table>
-", "@Twig/Exception/logs.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/logs.html.twig");
+", "@Twig/Exception/logs.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/logs.html.twig");
     }
 }

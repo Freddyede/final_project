@@ -97,7 +97,7 @@ class UserAuthenticator extends AbstractFormLoginAuthenticator implements Passwo
         }
         switch ($token->getUser()->getRoles()['roles']) {
             case 'ROLE_ADMIN':
-                return new RedirectResponse($this->urlGenerator->generate('admin'));
+                return new RedirectResponse($this->urlGenerator->generate('admin_accueil'));
             case 'ROLE_USER':
                 return new RedirectResponse($this->urlGenerator->generate('profile'));
         }

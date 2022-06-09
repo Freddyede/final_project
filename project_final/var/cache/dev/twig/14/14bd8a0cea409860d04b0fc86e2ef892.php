@@ -477,6 +477,6 @@ class __TwigTemplate_524cd20bdc3f385985855d630a0a4f3f extends Template
 {% block body %}
     {% include '@Twig/Exception/exception.html.twig' %}
 {% endblock %}
-", "@Twig/Exception/exception_full.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception_full.html.twig");
+", "@Twig/Exception/exception_full.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception_full.html.twig");
     }
 }

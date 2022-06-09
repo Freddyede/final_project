@@ -69,6 +69,6 @@ class __TwigTemplate_1987c51b03dfe3e21b67d447b67ceb11 extends Template
 <?php echo \$view['form']->rest(\$form) ?>
 <?php endif ?>
 </form>
-", "@Framework/Form/form_end.html.php", "/home/kali/Bureau/project_final/vendor/symfony/framework-bundle/Resources/views/Form/form_end.html.php");
+", "@Framework/Form/form_end.html.php", "/home/kali/Bureau/final_project/project_final/vendor/symfony/framework-bundle/Resources/views/Form/form_end.html.php");
     }
 }

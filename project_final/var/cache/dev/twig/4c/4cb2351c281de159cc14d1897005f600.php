@@ -73,6 +73,6 @@ class __TwigTemplate_b226a0d1dae061cd39273b7b468da198 extends Template
     {
         return new Source("{% deprecated 'The template \"' ~ _self ~'\" is deprecated since Symfony 4.4, will be removed in 5.0.' %}
 {{ { 'error': { 'code': status_code, 'message': status_text, 'exception': exception.toarray } }|json_encode|raw }}
-", "@Twig/Exception/exception.json.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception.json.twig");
+", "@Twig/Exception/exception.json.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception.json.twig");
     }
 }

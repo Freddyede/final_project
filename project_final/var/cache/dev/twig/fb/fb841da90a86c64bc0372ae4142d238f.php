@@ -89,6 +89,6 @@ class __TwigTemplate_9295372008a73e15f9198239c1742654 extends Template
     <script src=\"{{ asset('assets/scripts/onclicks/index.js') }}\"></script>
 #}
     <script src=\"{{ asset('assets/scripts/main.js') }}\"></script>
-", "common/scripts/mainScript/Back/index.html.twig", "/home/kali/Bureau/project_final/templates/common/scripts/mainScript/Back/index.html.twig");
+", "common/scripts/mainScript/Back/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/scripts/mainScript/Back/index.html.twig");
     }
 }

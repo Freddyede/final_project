@@ -63,6 +63,6 @@ class __TwigTemplate_5811fe71864bb8dd550b284bf065854a extends Template
     public function getSourceContext()
     {
         return new Source("<?php echo \$view['form']->widget(\$form) ?>
-", "@Framework/Form/hidden_row.html.php", "/home/kali/Bureau/project_final/vendor/symfony/framework-bundle/Resources/views/Form/hidden_row.html.php");
+", "@Framework/Form/hidden_row.html.php", "/home/kali/Bureau/final_project/project_final/vendor/symfony/framework-bundle/Resources/views/Form/hidden_row.html.php");
     }
 }

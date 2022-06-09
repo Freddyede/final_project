@@ -121,6 +121,6 @@ class __TwigTemplate_bdcd0d99a339c9de747ac8450f4c2718 extends Template
 {% block body %}
     <h1>{{ controller_name }}</h1>
 {% endblock %}
-", "charts/pie.html.twig", "/home/kali/Bureau/project_final/templates/charts/pie.html.twig");
+", "charts/pie.html.twig", "/home/kali/Bureau/final_project/project_final/templates/charts/pie.html.twig");
     }
 }

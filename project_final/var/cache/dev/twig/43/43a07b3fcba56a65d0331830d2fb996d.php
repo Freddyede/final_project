@@ -71,6 +71,6 @@ class __TwigTemplate_d21a6c8ee8a90d0c324f575ad8932ade extends Template
 <?php else: ?>
 <?php echo \$view['form']->block(\$form, 'form_widget_simple')?>
 <?php endif ?>
-", "@Framework/Form/form_widget.html.php", "/home/kali/Bureau/project_final/vendor/symfony/framework-bundle/Resources/views/Form/form_widget.html.php");
+", "@Framework/Form/form_widget.html.php", "/home/kali/Bureau/final_project/project_final/vendor/symfony/framework-bundle/Resources/views/Form/form_widget.html.php");
     }
 }

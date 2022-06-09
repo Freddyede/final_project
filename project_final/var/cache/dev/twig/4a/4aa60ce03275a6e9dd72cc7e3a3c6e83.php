@@ -71,6 +71,6 @@ class __TwigTemplate_c1821faa4533a30ebba4107040ee5e2e extends Template
         <?php echo \$view['form']->widget(\$form); ?>
     </td>
 </tr>
-", "@Framework/FormTable/hidden_row.html.php", "/home/kali/Bureau/project_final/vendor/symfony/framework-bundle/Resources/views/FormTable/hidden_row.html.php");
+", "@Framework/FormTable/hidden_row.html.php", "/home/kali/Bureau/final_project/project_final/vendor/symfony/framework-bundle/Resources/views/FormTable/hidden_row.html.php");
     }
 }

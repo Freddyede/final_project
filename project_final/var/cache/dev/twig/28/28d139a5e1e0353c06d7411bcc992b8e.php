@@ -122,6 +122,6 @@ class __TwigTemplate_79da4c9de4ee379852a6ec20398d1bce extends Template
     <button type=\"submit\">Register!</button>
     {{ form_end(form) }}
 {% endblock %}
-", "registration/register.html.twig", "/home/kali/Bureau/project_final/templates/registration/register.html.twig");
+", "registration/register.html.twig", "/home/kali/Bureau/final_project/project_final/templates/registration/register.html.twig");
     }
 }

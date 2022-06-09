@@ -490,6 +490,6 @@ class __TwigTemplate_f170cea5bfe60669cd91ff77a4d8a2c9 extends Template
         {% endif %}
     </div>
 </div>
-", "@Twig/Exception/exception.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception.html.twig");
+", "@Twig/Exception/exception.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception.html.twig");
     }
 }

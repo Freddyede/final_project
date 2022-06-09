@@ -144,6 +144,6 @@ class __TwigTemplate_f049dad0d58b9e04a5c7a318ae56b17c extends Template
         </ul>
     </div>
 {% endblock %}
-", "admin/index.html.twig", "/home/kali/Bureau/project_final/templates/admin/index.html.twig");
+", "admin/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/admin/index.html.twig");
     }
 }

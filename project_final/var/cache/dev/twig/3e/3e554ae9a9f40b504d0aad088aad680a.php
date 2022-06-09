@@ -188,6 +188,6 @@ class __TwigTemplate_13cc3111821fedbaa03e67b554da91b4 extends Template
         </div>
     </form>
 {% endblock %}
-", "security/login.html.twig", "/home/kali/Bureau/project_final/templates/security/login.html.twig");
+", "security/login.html.twig", "/home/kali/Bureau/final_project/project_final/templates/security/login.html.twig");
     }
 }

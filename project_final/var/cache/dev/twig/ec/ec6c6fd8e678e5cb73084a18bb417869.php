@@ -62,6 +62,6 @@ class __TwigTemplate_3a41395bbe2886f3467cc0762364d4f9 extends Template
     public function getSourceContext()
     {
         return new Source("{% include 'common/navbar_login_register/index.html.twig' %}
-", "component/LOGINREGISTER/index.html.twig", "/home/kali/Bureau/project_final/templates/component/LOGINREGISTER/index.html.twig");
+", "component/LOGINREGISTER/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/component/LOGINREGISTER/index.html.twig");
     }
 }

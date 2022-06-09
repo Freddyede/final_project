@@ -128,6 +128,6 @@ class __TwigTemplate_f903a3c7abcd1fb7bbc44e96b048908b extends Template
     <a href=\"{{ loginUrl }}\" class=\"btn btn-success me-5\">{{ loginName }}</a>
     <a href=\"{{ registerUrl }}\" class=\"btn btn-warning\">{{ registerName }}</a>
 </div>
-", "common/navbar_login_register/common/navbar_supported_content/index.html.twig", "/home/kali/Bureau/project_final/templates/common/navbar_login_register/common/navbar_supported_content/index.html.twig");
+", "common/navbar_login_register/common/navbar_supported_content/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/navbar_login_register/common/navbar_supported_content/index.html.twig");
     }
 }

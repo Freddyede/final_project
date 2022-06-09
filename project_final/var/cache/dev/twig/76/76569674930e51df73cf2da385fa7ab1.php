@@ -77,6 +77,6 @@ class __TwigTemplate_17600fbea32b341543451a0d07a98ebe extends Template
       integrity=\"sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC\"
       crossorigin=\"anonymous\"
 />
-", "common/styles/mainStyles/Front/index.html.twig", "/home/kali/Bureau/project_final/templates/common/styles/mainStyles/Front/index.html.twig");
+", "common/styles/mainStyles/Front/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/styles/mainStyles/Front/index.html.twig");
     }
 }

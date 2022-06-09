@@ -120,6 +120,6 @@ class __TwigTemplate_c398418f3eeb8542c8007678dcf80b8a extends Template
 {% block body %}
 
 {% endblock %}
-", "home/index.html.twig", "/home/kali/Bureau/project_final/templates/home/index.html.twig");
+", "home/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/home/index.html.twig");
     }
 }

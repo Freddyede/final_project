@@ -112,6 +112,6 @@ class __TwigTemplate_bc6d4433b0fba9dcdc71e9a249accc3f extends Template
     </exception>
 {% endfor %}
 </error>
-", "@Twig/Exception/exception.xml.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception.xml.twig");
+", "@Twig/Exception/exception.xml.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/exception.xml.twig");
     }
 }

@@ -175,6 +175,6 @@ class __TwigTemplate_6733bc9af5c9642235ca1c9886723705 extends Template
     </div>
     <div class=\"col-1\" style=\"border: 1px solid red;\"></div>
 {% endblock %}
-", "charts/index.html.twig", "/home/kali/Bureau/project_final/templates/charts/index.html.twig");
+", "charts/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/charts/index.html.twig");
     }
 }

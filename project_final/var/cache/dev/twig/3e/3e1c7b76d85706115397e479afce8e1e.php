@@ -83,6 +83,6 @@ class __TwigTemplate_deddb7ac4eb9e1f552e13f2890be1e09 extends Template
 {{ status_code }} {{ status_text }}
 
 */
-", "@Twig/Exception/error.css.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/error.css.twig");
+", "@Twig/Exception/error.css.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/error.css.twig");
     }
 }

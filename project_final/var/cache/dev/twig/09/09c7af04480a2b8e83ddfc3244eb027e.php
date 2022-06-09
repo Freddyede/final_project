@@ -258,6 +258,6 @@ class __TwigTemplate_17c5e4ec5506c14e3e3f4390ac0250e5 extends Template
     </body>
 </html>
 {% block after_html %}{% endblock %}
-", "@Twig/layout.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
+", "@Twig/layout.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
     }
 }

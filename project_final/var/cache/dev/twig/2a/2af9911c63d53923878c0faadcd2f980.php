@@ -83,6 +83,6 @@ class __TwigTemplate_13fd710f212221f137edf7bf78b9e51c extends Template
         <?php echo \$view['form']->help(\$form); ?>
     </td>
 </tr>
-", "@Framework/FormTable/form_row.html.php", "/home/kali/Bureau/project_final/vendor/symfony/framework-bundle/Resources/views/FormTable/form_row.html.php");
+", "@Framework/FormTable/form_row.html.php", "/home/kali/Bureau/final_project/project_final/vendor/symfony/framework-bundle/Resources/views/FormTable/form_row.html.php");
     }
 }

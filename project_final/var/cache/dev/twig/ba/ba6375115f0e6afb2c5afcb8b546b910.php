@@ -75,6 +75,6 @@ class __TwigTemplate_29836463f5d203cc4305779c186f92c5 extends Template
         return new Source("<li class=\"nav-item dropdown\">
     {% include 'charts/common/navbar/first_level/index.html.twig' %}
 </li>
-", "charts/common/navbar/index.html.twig", "/home/kali/Bureau/project_final/templates/charts/common/navbar/index.html.twig");
+", "charts/common/navbar/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/charts/common/navbar/index.html.twig");
     }
 }

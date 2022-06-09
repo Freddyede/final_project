@@ -189,6 +189,6 @@ class __TwigTemplate_abdd89d57dd0c118dd08a48deb1fbe81 extends Template
         </div>
     </div>
 </div>
-", "@Twig/Exception/traces.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/traces.html.twig");
+", "@Twig/Exception/traces.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/Exception/traces.html.twig");
     }
 }

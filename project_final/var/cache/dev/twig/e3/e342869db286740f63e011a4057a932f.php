@@ -91,6 +91,6 @@ class __TwigTemplate_a67f43bdd1f7492b0232e1d90b720da8 extends Template
 <link href=\"{{ asset('assets/styles/main.css') }}\"
       rel=\"stylesheet\"
 />
-", "common/styles/mainStyles/Back/index.html.twig", "/home/kali/Bureau/project_final/templates/common/styles/mainStyles/Back/index.html.twig");
+", "common/styles/mainStyles/Back/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/styles/mainStyles/Back/index.html.twig");
     }
 }

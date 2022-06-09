@@ -75,6 +75,6 @@ class __TwigTemplate_4641e1b7cb1d3d6f3f3e9835f226a510 extends Template
         <?php endforeach; ?>
     </ul>
 <?php endif ?>
-", "@Framework/Form/form_errors.html.php", "/home/kali/Bureau/project_final/vendor/symfony/framework-bundle/Resources/views/Form/form_errors.html.php");
+", "@Framework/Form/form_errors.html.php", "/home/kali/Bureau/final_project/project_final/vendor/symfony/framework-bundle/Resources/views/Form/form_errors.html.php");
     }
 }

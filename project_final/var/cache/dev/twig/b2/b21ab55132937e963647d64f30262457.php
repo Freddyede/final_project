@@ -104,6 +104,6 @@ class __TwigTemplate_f809475eaaaa75f200da74a1d89f5e17 extends Template
     </ul>
     <a href=\"{{ logoutUrl }}\" class=\"btn btn-danger\">{{ logoutName }}</a>
 </div>
-", "common/navbar_dark/common/navbar_supported_content/index.html.twig", "/home/kali/Bureau/project_final/templates/common/navbar_dark/common/navbar_supported_content/index.html.twig");
+", "common/navbar_dark/common/navbar_supported_content/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/navbar_dark/common/navbar_supported_content/index.html.twig");
     }
 }

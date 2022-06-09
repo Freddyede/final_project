@@ -205,6 +205,6 @@ class __TwigTemplate_6e2b8bdcccaa89518b2bd721e17b9db4 extends Template
         </div>
     </body>
 </html>
-", "base.html.twig", "/home/kali/Bureau/project_final/templates/base.html.twig");
+", "base.html.twig", "/home/kali/Bureau/final_project/project_final/templates/base.html.twig");
     }
 }

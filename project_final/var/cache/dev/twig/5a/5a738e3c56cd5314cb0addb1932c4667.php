@@ -69,6 +69,6 @@ class __TwigTemplate_59783f86a77706420c98a70b9159714e extends Template
 <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
     <span class=\"navbar-toggler-icon\"></span>
 </button>
-", "common/navbar_dark/common/title/index.html.twig", "/home/kali/Bureau/project_final/templates/common/navbar_dark/common/title/index.html.twig");
+", "common/navbar_dark/common/title/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/navbar_dark/common/title/index.html.twig");
     }
 }

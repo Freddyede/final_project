@@ -75,6 +75,6 @@ class __TwigTemplate_96d7efe0495fc5673911e2e82d50c0ff extends Template
         return new Source("<nav class=\"navbar navbar-expand-lg  navbar-light bg-light\">
     {% include 'common/navbar_login_register/common/container_fluid/index.html.twig' %}
 </nav>
-", "common/navbar_login_register/index.html.twig", "/home/kali/Bureau/project_final/templates/common/navbar_login_register/index.html.twig");
+", "common/navbar_login_register/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/navbar_login_register/index.html.twig");
     }
 }

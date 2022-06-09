@@ -128,6 +128,6 @@ class __TwigTemplate_b9f608cf0642244cc77fc1aece095b17 extends Template
         </a>
     </li>
 </ul>
-", "charts/common/navbar/second_level/index.html.twig", "/home/kali/Bureau/project_final/templates/charts/common/navbar/second_level/index.html.twig");
+", "charts/common/navbar/second_level/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/charts/common/navbar/second_level/index.html.twig");
     }
 }

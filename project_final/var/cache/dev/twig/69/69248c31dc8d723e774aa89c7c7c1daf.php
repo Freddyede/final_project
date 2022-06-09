@@ -1289,6 +1289,6 @@ $context["voter_detail"]) && is_array($__internal_compile_5) || $__internal_comp
         </table>
     {% endif %}
 {% endblock %}
-", "@Security/Collector/security.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/security-bundle/Resources/views/Collector/security.html.twig");
+", "@Security/Collector/security.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/security-bundle/Resources/views/Collector/security.html.twig");
     }
 }

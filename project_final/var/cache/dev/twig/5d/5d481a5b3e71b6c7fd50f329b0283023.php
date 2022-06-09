@@ -79,6 +79,6 @@ class __TwigTemplate_bf517e8b72e228c4dcb9b81e67bb52c0 extends Template
     {% include 'common/navbar_login_register/common/title/index.html.twig' %}
     {% include 'common/navbar_login_register/common/navbar_supported_content/index.html.twig' %}
 </div>
-", "common/navbar_login_register/common/container_fluid/index.html.twig", "/home/kali/Bureau/project_final/templates/common/navbar_login_register/common/container_fluid/index.html.twig");
+", "common/navbar_login_register/common/container_fluid/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/navbar_login_register/common/container_fluid/index.html.twig");
     }
 }

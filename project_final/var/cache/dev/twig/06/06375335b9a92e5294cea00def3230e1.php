@@ -79,6 +79,6 @@ class __TwigTemplate_b28368ca8011a0cac08d241ceba06626 extends Template
 {% else %}
     {% include 'common/styles/mainStyles/Front/index.html.twig' %}
 {% endif %}
-", "common/header/styles/index.html.twig", "/home/kali/Bureau/project_final/templates/common/header/styles/index.html.twig");
+", "common/header/styles/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/header/styles/index.html.twig");
     }
 }

@@ -62,6 +62,6 @@ class __TwigTemplate_1c0b2304abaf2c618a22be3da2ab4b12 extends Template
     public function getSourceContext()
     {
         return new Source("{% include 'common/navbar_profil/index.html.twig' %}
-", "component/PROFILE/index.html.twig", "/home/kali/Bureau/project_final/templates/component/PROFILE/index.html.twig");
+", "component/PROFILE/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/component/PROFILE/index.html.twig");
     }
 }

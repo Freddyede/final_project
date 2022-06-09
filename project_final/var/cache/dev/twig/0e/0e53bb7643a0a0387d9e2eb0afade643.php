@@ -639,6 +639,6 @@ class __TwigTemplate_5a48e7f760f8d10c5462d24c4f66bb06 extends Template
     });
 
 /*]]>*/</script>
-", "@Twig/base_js.html.twig", "/home/kali/Bureau/project_final/vendor/symfony/twig-bundle/Resources/views/base_js.html.twig");
+", "@Twig/base_js.html.twig", "/home/kali/Bureau/final_project/project_final/vendor/symfony/twig-bundle/Resources/views/base_js.html.twig");
     }
 }

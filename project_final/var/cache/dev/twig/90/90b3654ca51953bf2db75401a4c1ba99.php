@@ -75,6 +75,6 @@ class __TwigTemplate_925fd8990cc0fd7955e2f87fb583f477 extends Template
         return new Source("<nav class=\"navbar navbar-expand-lg navbar-dark bg-primary\">
     {% include 'common/navbar_profil/common/container_fluid/index.html.twig' %}
 </nav>
-", "common/navbar_profil/index.html.twig", "/home/kali/Bureau/project_final/templates/common/navbar_profil/index.html.twig");
+", "common/navbar_profil/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/navbar_profil/index.html.twig");
     }
 }

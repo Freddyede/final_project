@@ -80,6 +80,6 @@ class __TwigTemplate_09aafa7a083bbf33989e9478c203207a extends Template
 {% else %}
     {% include 'common/scripts/mainScript/Front/index.html.twig' %}
 {% endif %}
-", "common/header/scripts/index.html.twig", "/home/kali/Bureau/project_final/templates/common/header/scripts/index.html.twig");
+", "common/header/scripts/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/common/header/scripts/index.html.twig");
     }
 }

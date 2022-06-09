@@ -77,6 +77,6 @@ class __TwigTemplate_fed4b6ac7a141567b6788c1f09c8e087 extends Template
 </a>
 
 {% include 'charts/common/navbar/second_level/index.html.twig' %}
-", "charts/common/navbar/first_level/index.html.twig", "/home/kali/Bureau/project_final/templates/charts/common/navbar/first_level/index.html.twig");
+", "charts/common/navbar/first_level/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/charts/common/navbar/first_level/index.html.twig");
     }
 }

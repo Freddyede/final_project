@@ -90,6 +90,6 @@ class __TwigTemplate_c0639b96dc4d8b98f25a9037d3a0d1ff extends Template
 {% elseif roles is same as('ROLE_USER') %}
     {% include 'component/PROFILE/index.html.twig' %}
 {% endif %}
-", "navbar/index.html.twig", "/home/kali/Bureau/project_final/templates/navbar/index.html.twig");
+", "navbar/index.html.twig", "/home/kali/Bureau/final_project/project_final/templates/navbar/index.html.twig");
     }
 }
